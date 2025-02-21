@@ -48,10 +48,9 @@ Running the Code
 
 4. Generating Data
 
-Before training, you need to generate the required data. Run the scripts in the DataCreators folder:
+Before training, you need to generate the required data. Run the scripts in the FinalModel folder:
 
-python DataCreators/data_creator_1.py
-python DataCreators/data_creator_2.py
+FinalModel/DataCreatorClassaholic.py
 
 This will generate the necessary datasets for model training.
 
